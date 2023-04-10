@@ -36,8 +36,8 @@ class Paddle:
             self.y += self.VEL
     
     def reset(self):
-        self.x = self.original_x = x
-        self.y = self.original_y = y
+        self.x = self.original_x 
+        self.y = self.original_y 
 
 #criando a bola 
 class Ball:
