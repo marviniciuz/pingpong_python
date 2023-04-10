@@ -56,8 +56,8 @@ class Ball:
         self.y += self.y_vel
 
     def reset(self):
-        self.x = self.original_x = x
-        self.y = self.original_y = y
+        self.x = self.original_x 
+        self.y = self.original_y
         self.y_vel = 0
         self.x_vel *= -1
 
