@@ -4,7 +4,7 @@ jogo de ping pong utilizando python, junto com a lib [pygame](https://www.pygame
 
 <p align="center" width="100%">
 <img src="img/jogoinicio.png
-" height = "45%" width = "60%">
+" height = "45%" width = "50%">
 </p>
 
 A pontuação do campeão do jogo esta definido ate ```10``` ponto, mas o mesmo pode ser mudado antes da execução do codigo:
@@ -21,5 +21,5 @@ pygame.display.set_caption("PingPongPython")
 
 <p align="center" width="100%">
 <img src="img/jogoplacar.png
-" height = "45%" width = "60%">
+" height = "45%" width = "50%">
 </p>
